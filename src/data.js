@@ -47,14 +47,14 @@ export const data = [
 export const productsReviewData = [
     {
         id: 20220001,
-        name: 'Jenni',
+        name: 'Jenni lip',
         image: image1,
         ratting: '4.5',
         dec: 'Best After-Sales & Warranty Support'
     },
     {
         id: 20220002,
-        name: 'Shakib',
+        name: 'Jaqditan rote',
         image: image2,
         ratting: '5.5',
         dec: 'Largest IT product collection in Bangladesh'
