@@ -1,6 +1,6 @@
 * Name of the Project:
 product-analysis-website-Samirun-Shuvo
-* Live Site Link of the project: 
+* Live Site Link of the project: https://product-analysis-website-samirun-shuvo.netlify.app/
 
 
 
