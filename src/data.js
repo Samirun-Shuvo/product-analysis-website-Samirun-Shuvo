@@ -50,42 +50,42 @@ export const productsReviewData = [
         name: 'Jenni',
         image: image1,
         ratting: '4.5',
-        dec: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam!'
+        dec: 'Best After-Sales & Warranty Support'
     },
     {
         id: 20220002,
         name: 'Shakib',
         image: image2,
         ratting: '5.5',
-        dec: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam!'
+        dec: 'Largest IT product collection in Bangladesh'
     },
     {
         id: 20220003,
         name: 'Joyonto',
         image: image3,
         ratting: '4.3',
-        dec: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam!'
+        dec: 'Best Laptop Shop in Bangladesh'
     },
     {
         id: 20220004,
         name: 'Sibli',
         image: image4,
         ratting: '5.0',
-        dec: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam!'
+        dec: 'Best Computer Shop in Bangladesh'
     },
     {
         id: 20220005,
         name: 'Jintanat',
         image: image5,
         ratting: '4.8',
-        dec: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam!'
+        dec: 'Reliable computer accessories online shop in Bangladesh'
     },
     {
         id: 20220006,
         name: 'Krocat',
         image: image6,
         ratting: '5.2',
-        dec: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam!'
+        dec: 'sell the best quality office equipment'
     },
 
 ];
