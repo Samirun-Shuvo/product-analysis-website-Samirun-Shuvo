@@ -9,6 +9,7 @@ const Review = () => {
     <div>
       <Navbar></Navbar>
       <div className='container'>
+        <h2 className='text-center mt-3'>All Customers Reviews</h2>
         <div className='product-review-container mt-5'>
           {
             products.map(product => <ProductDetails
